@@ -67,17 +67,17 @@ Alongside security, I also work on **Web Development**, understanding both **att
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RIKTO-07&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIKTO-07&layout=compact&theme=tokyonight" />
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RIKTO-07&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIKTO-07&layout=compact&theme=radical" />
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RIKTO-07&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RIKTO-07&theme=radical" />
 </p>
 
 ---
@@ -85,8 +85,9 @@ Alongside security, I also work on **Web Development**, understanding both **att
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RIKTO-07&theme=matrix&no-frame=true&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RIKTO-07&theme=matrix&no-frame=true" />
 </p>
+
 
 ---
 
