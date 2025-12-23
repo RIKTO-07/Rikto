@@ -85,8 +85,9 @@ Alongside security, I also work on **Web Development**, understanding both **att
 ## 🏆 GitHub Achievements
 
 <p align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=RIKTO_07&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RIKTO-07&theme=radical" />
 </p>
+
 
 ---
 
