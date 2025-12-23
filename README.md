@@ -68,8 +68,14 @@ Alongside security, I also work on **Web Development**, understanding both **att
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RIKTO-07&theme=radical&cache_seconds=86400" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIKTO-07&layout=compact&theme=radical" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=RIKTO-07&show_icons=true&theme=radical&cache_seconds=86400"
+    height="180em"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIKTO-07&layout=compact&langs_count=6&theme=radical&cache_seconds=86400"
+    height="180em"
+  />
 </p>
 
 ---
