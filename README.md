@@ -77,7 +77,7 @@ Alongside security, I also work on **Web Development**, understanding both **att
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RIKTO-07&theme=tokyonight" />
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MeghlaB&theme=radical" />
 </p>
 
 ---
